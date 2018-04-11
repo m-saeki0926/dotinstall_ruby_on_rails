@@ -1,11 +1,11 @@
 # Practice ruby on rails
 
 ## Description
-#### ドットインストール Ruty on Railsのサンプルアプリ  
+#### ドットインストール Ruty on Railsのサンプルアプリ  
 01 〜 28まで完了後のコード   
 https://dotinstall.com/lessons/basic_rails_v3
-#### 開発環境
-macOS   : Sierra
+#### 開発環境  
+macOS   : Sierra  
 version : 10.12.6
 
 ## How to set up
